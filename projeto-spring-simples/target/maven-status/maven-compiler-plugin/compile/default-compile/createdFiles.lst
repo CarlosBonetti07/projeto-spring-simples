@@ -1,0 +1,5 @@
+com\exemplo\sistema\service\PessoaService.class
+com\exemplo\sistema\repository\PessoaRepository.class
+com\exemplo\sistema\SistemaServidorApplication.class
+com\exemplo\sistema\model\Pessoa.class
+com\exemplo\sistema\controller\UsuarioController.class
